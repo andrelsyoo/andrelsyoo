@@ -2,4 +2,4 @@
 
 ☁️ I'm a Software/Devops Engineer enjoying at most.
 
-🏗 I work on infrastructure (Kubernetes, cloud stuffs and automation mostly) and my job is to help make developers' lives easier and happier.
+🏗 I work on infrastructure (Kubernetes, cloud stuffs and automation mostly) helping make developers' lives easier and happier.
