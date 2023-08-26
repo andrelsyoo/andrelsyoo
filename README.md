@@ -1,5 +1,9 @@
-### Hi there!  I'm André LS 
+### Hey there! 
 
-☁️ I'm a Software/Devops Engineer enjoying at most.
+- ️ I'm André LS. I'm a Software/Devops Engineer enjoying at most.
 
-🏗 I work on infrastructure (Kubernetes, cloud stuffs and automation mostly) helping make developers' lives easier and happier.
+🏗 I work w/ environments running (Kubernetes, cloud stuffs, toolings, monitoring and automation mostly) helping make development easier and fun.
+
+💥 Some of my skills 
+
+![Skills](https://skillicons.dev/icons?i=py,bash,kubernetes,docker,gcp,azure,aws&theme=dark)
